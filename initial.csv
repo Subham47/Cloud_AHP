@@ -1,0 +1,6 @@
+﻿,Google,Amazon,Microsoft,Alibaba,Salesforce,Dell,IBM,Digital_Ocean,Oracle,Dropbox
+Cost,3250,2356,1036,950,800,1200,1300,1000,1800,1150
+Validity,1,1,1,1,1,1,1,1,1,1
+SaaS,1,1,1,1,0,1,1,1,1,1
+IaaS,1,1,1,0,0,1,1,0,1,0
+PaaS,1,1,1,1,1,1,1,1,1,1
